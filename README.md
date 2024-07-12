@@ -2,6 +2,8 @@
 
 A simple web application that allows users to register, log in, and view a secrets page. This project demonstrates user authentication with Express.js, Passport.js, bcrypt for password hashing, and PostgreSQL for database management.
 
+![alt text](<Screenshot 2024-07-12 220238.png>) ![alt text](<Screenshot 2024-07-12 220255.png>)
+
 ## Features
 
 - User registration with hashed passwords
